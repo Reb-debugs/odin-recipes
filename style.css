@@ -1,0 +1,23 @@
+a{
+    color: #f06ec0;
+}
+
+
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+
+h3{
+    color: #f06ec0;
+}
+
+*{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: medium;
+
+}
+
+.centre{
+    text-align: center;
+}

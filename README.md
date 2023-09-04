@@ -20,5 +20,13 @@ Revisit:
 
 After completing the Css 'The Cascade' Lesson I will now be revisiting this project to apply my new CSS Skills.
 
+Skills Learned/Demonstrated:
+
+Understanding how to link to css correctly
+Understanding best practice when it comes to file paths/ directory structure
+Understanding of class vs type selectors and specificity heirarchy
+Realising that 'American English' is the default 
+Practicing my use of Git and learning how to write good summaries/messages.
+
 
 
